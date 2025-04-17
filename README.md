@@ -19,7 +19,7 @@ It ensures language detect, number of article counts, and handles errors like in
   - pip install pandas
 
 # How to run:
-  - open the terminal in vs code
+  - open terminal in vs code
   - run the script
   - python News_feed.py
 
